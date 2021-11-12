@@ -1,3 +1,5 @@
+# Completed Computer Science Classes 
+
 # CSE111
 Introduction to Quantitative Analysis and Reasoning with Computing
 # CSE115
