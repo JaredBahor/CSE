@@ -27,8 +27,8 @@ Algorithms and Complexity
 Computer Organization
 # CSE4/590
 Computer Architecture
-- 8-Bit Processor
-- Test Cache Benchmarks scripts
+- 8-Bit Processor (SystemVerilog)
+- Test Cache Benchmarks scripts 
 # CSE410
 Software Security
 # MGS439
