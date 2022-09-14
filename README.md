@@ -28,7 +28,7 @@ Computer Organization
 # CSE4/590
 Computer Architecture
 - 8-Bit Processor (SystemVerilog)
-- Test Cache Benchmarks scripts 
+- wrote scripts to test cache benchmarks performance
 # CSE410
 Software Security
 - Wrote scripts to "break" into software (python)
