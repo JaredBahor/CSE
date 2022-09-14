@@ -31,11 +31,15 @@ Computer Architecture
 - Test Cache Benchmarks scripts 
 # CSE410
 Software Security
+- Wrote scripts to "break" into software (python)
+- Used advanced techniques such as Spectre and Meltdown to attack systems 
 # MGS439
 Cybersecurity, Privacy & Ethics
+- Learned how to be the CIO of a business
 # CSE4/529
 Algorithms for Modern Computing Systems
 # CSE365
 Introduction to Computer Security
 # CSE411
 Introduction to Computer Systems Administration
+- learned tasks that System admins have to perform
