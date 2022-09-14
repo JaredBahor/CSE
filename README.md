@@ -25,3 +25,17 @@ Data Structures
 Algorithms and Complexity
 # CSE341
 Computer Organization
+# CSE4/590
+Computer Architecture
+- 8-Bit Processor
+- Test Cache Benchmarks scripts
+# CSE410
+Software Security
+# MGS439
+Cybersecurity, Privacy & Ethics
+# CSE4/529
+Algorithms for Modern Computing Systems
+# CSE365
+Introduction to Computer Security
+#CSE411
+Introduction to Computer Systems Administration
