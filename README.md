@@ -43,6 +43,7 @@ Cybersecurity, Privacy & Ethics
 # CSE4/529
 Algorithms for Modern Computing Systems
 - Analysis of algorithms for modern computing systems in terms of running time, size of data, number of processors/cores, and interconnection networks
+- Material includes network-based fine-grained parallel computers, shared-memory computers, general multi-core and multiple processor systems, GPU-based systems, clusters, grids and clouds
 # CSE365
 Introduction to Computer Security
 - hands on approch to learning networks, web security, and application security
