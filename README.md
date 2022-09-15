@@ -23,23 +23,28 @@ Data Structures
 - Expression Evaluator (C++)
 # CSE331
 Algorithms and Complexity
+- Introduces paradigms for designing algorithms and fundamental limitations to what algorithms can do
+- Covers design and implementation of greedy algorithms, divide and conquer algorithms and dynamic programming
 # CSE341
 Computer Organization
+- Gain a understanding of instruction set architecture, arithmetic logic unit design, advanced computer arithmetic, datapath and control unit design, pipelining, memory hierarchy. 
 # CSE4/590
 Computer Architecture
 - 8-Bit Processor (SystemVerilog)
 - wrote scripts to test cache benchmarks performance
-# CSE410
+# CSE4/510
 Software Security
 - Wrote scripts to "break" into software (python)
 - Used advanced techniques such as Spectre and Meltdown to attack systems 
 # MGS439
 Cybersecurity, Privacy & Ethics
-- 
+- Learned the intricacies of the current risks and threats to an organization’s data from the standing CIO of UB
+- Trained in the concepts and practices of data privacy and ethical management of sensitive data.
 # CSE4/529
 Algorithms for Modern Computing Systems
 # CSE365
 Introduction to Computer Security
+- hands on approch to learning networks, web security, and application security
 # CSE411
 Introduction to Computer Systems Administration
 - learned tasks that System admins have to perform
