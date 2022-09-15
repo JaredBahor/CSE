@@ -27,7 +27,7 @@ Algorithms and Complexity
 - Covers design and implementation of greedy algorithms, divide and conquer algorithms and dynamic programming
 # CSE341
 Computer Organization
-- Gain a understanding of instruction set architecture, arithmetic logic unit design, advanced computer arithmetic, datapath and control unit design, pipelining, memory hierarchy. 
+- Gained an understanding of instruction set architecture, arithmetic logic unit design, advanced computer arithmetic, datapath and control unit design, pipelining, memory hierarchy. 
 # CSE4/590
 Computer Architecture
 - 8-Bit Processor (SystemVerilog)
