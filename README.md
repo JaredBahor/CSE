@@ -42,6 +42,7 @@ Cybersecurity, Privacy & Ethics
 - Trained in the concepts and practices of data privacy and ethical management of sensitive data.
 # CSE4/529
 Algorithms for Modern Computing Systems
+- Analysis of algorithms for modern computing systems in terms of running time, size of data, number of processors/cores, and interconnection networks
 # CSE365
 Introduction to Computer Security
 - hands on approch to learning networks, web security, and application security
