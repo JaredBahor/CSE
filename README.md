@@ -11,7 +11,7 @@ Introduction to Computer Science II
 - RhymingDictionary (Scala)
 # CSE191
 Introduction to Discrete Structures
-- Discrete math course covered topics including logic, proofs, sets, functions, relations, recursion, recurrence relations, mathematical induction, graphs, trees, basic counting theory, regular languages
+- Discrete math course covered topics including logic, proofs, sets, functions, relations, recursion, recurrence relations, mathematical induction, graphs, trees, basic counting theory, and regular languages
 # CSE220
 Systems Programming
 - Singly Linked List (C)
